@@ -2,13 +2,13 @@
  
 Perkenalkan nama saya **Muhammad Alfin Nugroho**.<br>
  
-Saya seorang **Mahasiswa** di [Universitas Muhammadiyah pekajangan Pekalongan]([https://www.dicoding.com/](https://umpp.ac.id/)).<br>
+Saya seorang **Mahasiswa** di [Universitas Muhammadiyah pekajangan Pekalongan](https://umpp.ac.id/).<br>
  
 Saya Mahasiswa Program Studi Sarjana Informatika.<br>
  
 Saya saat ini sedang menempuh semester 5.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-alfin-nugroho/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-alfin-nugroho/) aku ya.
  
 ### Github Statistic
 <p align="left">
