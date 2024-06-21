@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa** di [Universitas Muhammadiyah pekajangan Pekalongan](h
  
 Saya Mahasiswa Program Studi Sarjana Informatika.<br>
  
-Saya saat ini sedang menempuh semester 5.<br>
+Saya saat ini sedang menempuh semester 6.<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-alfin-nugroho/) aku ya.
  
