@@ -38,16 +38,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/MuhAlfinNugroho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhAlfinNugroho&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhAlfinNugroho&layout=compact&theme=tokyonight"/>
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhAlfinNugroho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhAlfinNugroho&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Github Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MuhAlfinNugroho&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhAlfinNugroho&theme=tokyonight&hide_border=true"/>
 </p>
