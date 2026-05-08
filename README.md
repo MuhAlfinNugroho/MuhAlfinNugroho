@@ -1,18 +1,47 @@
-<div align="center">
-
-# Hi 👋 I'm Muhammad Alfin Nugroho
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Informatics+Student;PHP+%7C+Laravel+%7C+MySQL" />
-
-</div>
 
 ---
 
-## 🚀 About Me
+# 4. Portfolio Style (Paling Cocok Buat Recruiter)
 
-```yaml
-Name: Muhammad Alfin Nugroho
-Study: Informatics Engineering
-Semester: 6
-Focus: Web Development
-Location: Indonesia
+```md
+# Muhammad Alfin Nugroho
+
+### Informatics Student | Web Developer
+
+Saya adalah mahasiswa Informatika yang tertarik pada pengembangan website dan sistem informasi.
+
+Saat ini saya fokus mempelajari:
+- Web Development
+- Laravel Framework
+- Database Management
+- UI/UX Design
+
+---
+
+## 🛠 Skills
+
+| Frontend | Backend | Database | Tools |
+|---|---|---|---|
+| HTML | PHP | MySQL | Git |
+| CSS | Laravel | MariaDB | GitHub |
+| JavaScript | REST API | Firebase | VS Code |
+
+---
+
+## 📂 Projects
+
+### 🔐 Sistem QR Kunjungan WBP
+Sistem scan QR untuk pengelolaan kunjungan warga binaan.
+
+### 📅 Sistem Agenda Kepala Rutan
+Aplikasi agenda kegiatan berbasis web.
+
+### 🧾 Sistem Arsip Digital
+Manajemen dokumen dan arsip internal.
+
+---
+
+## 🌐 Contact
+
+- LinkedIn:
+  https://www.linkedin.com/in/muhammad-alfin-nugroho/
