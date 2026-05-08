@@ -33,6 +33,15 @@ Saya juga memiliki pengalaman di bidang teknologi melalui:
 
 ---
 
+Serta pengalaman kepemimpinan sebagai:
+
+- 🗳 Ketua KPPS Pemilu 2024
+- 🪖 Wakil Komandan Resimen Mahasiswa
+- 👥 Ketua Divisi Sosial Masyarakat KMJI
+
+---
+
+
 # 🚀 Tech Stack
 
 <p align="center">
@@ -96,6 +105,16 @@ Saya juga memiliki pengalaman di bidang teknologi melalui:
 - Front-End Website Development
 
 ---
+
+## 🗳 Komisi Pemilihan Umum
+### Ketua KPPS Pemilu 2024
+
+- Team Coordination & Leadership
+- Election Logistics Preparation
+- Voting Process Supervision
+- Public Service & Administration
+
+  ---
 
 # 🧠 Soft Skills
 
